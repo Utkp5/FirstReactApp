@@ -1,7 +1,7 @@
 import React,{useState} from 'react'
 import "./Inc_dec.css"
 
-export default function Inc_dec(){
+export default function IncDec(){
   const[value,setCount]= useState(0);
   return (
     <div>

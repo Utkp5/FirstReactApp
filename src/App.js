@@ -1,7 +1,7 @@
 // import React,{useState} from 'react';
 // import './App.css';
 // import axios from 'axios';
-import Inc_dec from "./Inc_dec.js";
+import IncDec from "./Inc_dec.js";
 function App() {
   // const [data,setData] = useState(0)
   // const Handle = async () => {
@@ -22,7 +22,7 @@ function App() {
     //   <button onClick={Handle}>Handle</button>
     // </div>
     <div>
-           <Inc_dec />
+           <IncDec />
     </div>
   );
 }
